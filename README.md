@@ -6,7 +6,7 @@ The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrou
 ## Installation
 
 ```bash
-git clone https://github.com/LudicrousDevelopment/Ludicrous
+git clone https://github.com/GameBoyYeet/Ludicrous
 
 cd Ludicrous
 
